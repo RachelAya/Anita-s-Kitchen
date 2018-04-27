@@ -1,0 +1,74 @@
+.jumbotron {
+  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/backgrounds/landing.jpg?raw=true);
+  margin: 0px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+.btn{
+   border: 2px solid red;
+   background-color: white;
+   color: black;
+   padding: 14px 28px;
+   font-size: 16px;
+   cursor: pointer;
+}
+#miniDrink{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: right;
+}
+#miniFast{
+  font-weight: bold;
+  font-size: 20px;
+}
+.text{
+  font-size: 50px;
+  color: white;
+}
+.first{
+  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/foodtop/breakfast.jpg?raw=true);
+
+  padding-top:75px;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-bottom: 75px;
+}
+.second{
+  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/foodtop/lunch.jpg?raw=true);
+
+  padding-top:75px;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-bottom: 75px;
+}
+.third{
+  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/foodtop/dinner.jpg?raw=true);
+
+  padding-top:75px;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-bottom: 75px;
+}
+.column1{
+  background-color: blue;
+}
+#header1{
+  padding: 25px;
+  background-color: grey;
+}
+#header2{
+  padding: 25px;
+   background-color: red;
+}
+#header3{
+  text-align: right;
+}
+#row4{
+  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/backgrounds/foodsBg.jpg?raw=true);
+}
