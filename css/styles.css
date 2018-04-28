@@ -69,6 +69,6 @@
 #header3{
   text-align: right;
 }
-#row4{
-  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/backgrounds/foodsBg.jpg?raw=true);
+.nav{
+  padding: 75px;
 }
