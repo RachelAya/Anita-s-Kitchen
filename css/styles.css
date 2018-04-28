@@ -1,4 +1,4 @@
-.jumbotron {
+.firstJum{
   background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/backgrounds/landing.jpg?raw=true);
   margin: 0px;
 }
@@ -10,7 +10,7 @@
     font-size: 30px;
     font-style: italic;
 }
-.btn{
+.a{
    border: 2px solid red;
    background-color: white;
    color: black;
@@ -71,4 +71,18 @@
 }
 .nav{
   padding: 75px;
+}
+.well{
+  margin-top: 20px;
+  padding: 65px;
+  border: 10px;
+  border-color: black;
+}
+.center{
+  text-align: center;
+}
+#colorH{
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
 }
