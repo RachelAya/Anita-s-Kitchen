@@ -1,5 +1,4 @@
 .firstJum{
-  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/backgrounds/landing.jpg?raw=true);
   margin: 0px;
 }
 .secondJum{
@@ -17,6 +16,12 @@
 .img1{
   float: right;
 }
+.well{
+  text-align: center;
+}
+.grid-container{
+  grid-column-gap: 0px;
+}
 .centered {
     position: absolute;
     top: 50%;
@@ -25,6 +30,10 @@
     color: white;
     font-size: 30px;
     font-style: italic;
+      padding-top:75px;
+      padding-left: 75px;
+      padding-right: 75px;
+      padding-bottom: 75px;
 }
 .a{
    border: 2px solid red;
@@ -44,37 +53,22 @@
   font-size: 20px;
 }
 .text{
-  font-size: 50px;
+  font-size: 35px;
   color: white;
 }
-.first{
-  padding-top:75px;
-  padding-left: 75px;
-  padding-right: 75px;
-  padding-bottom: 75px;
-}
-.second{
-  padding-top:75px;
-  padding-left: 75px;
-  padding-right: 75px;
-  padding-bottom: 75px;
-}
-.third{
-  padding-top:75px;
-  padding-left: 75px;
-  padding-right: 75px;
-  padding-bottom: 75px;
-}
+
 .column1{
   background-color: blue;
 }
 #header1{
   padding: 25px;
   background-color: grey;
+  margin: 0px;
 }
 #header2{
   padding: 25px;
    background-color: red;
+   margin: 0px;
 }
 #header3{
   text-align: right;
