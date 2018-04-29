@@ -2,10 +2,26 @@
   background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/backgrounds/landing.jpg?raw=true);
   margin: 0px;
 }
+.secondJum{
+  color: white;
+  font-size: 40px;
+  background-color: #F15A29;
+
+}
+.rowPad{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.img1{
+  float: right;
+}
 .centered {
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
     color: white;
     font-size: 30px;
     font-style: italic;
@@ -32,24 +48,18 @@
   color: white;
 }
 .first{
-  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/foodtop/breakfast.jpg?raw=true);
-
   padding-top:75px;
   padding-left: 75px;
   padding-right: 75px;
   padding-bottom: 75px;
 }
 .second{
-  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/foodtop/lunch.jpg?raw=true);
-
   padding-top:75px;
   padding-left: 75px;
   padding-right: 75px;
   padding-bottom: 75px;
 }
 .third{
-  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/foodtop/dinner.jpg?raw=true);
-
   padding-top:75px;
   padding-left: 75px;
   padding-right: 75px;
