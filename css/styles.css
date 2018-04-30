@@ -3,7 +3,7 @@
   width: 40px;
   height: 5px;
   display: block;
-  
+
 }
 .jumbotron{
   margin: 0px;
@@ -42,6 +42,10 @@
       padding-left: 75px;
       padding-right: 75px;
       padding-bottom: 75px;
+}
+.centered:hover{
+  background-color: white;
+  color: black;
 }
 .a{
    border: 2px solid red;
